@@ -10,4 +10,4 @@ I have about 8+ years of experience Developing on ArmA games dating back to Arma
 You can find my ArmA 3 Products on https://bytex.market/</br>
 You can find my FiveM Products on https://anxiety-modifications.tebex.io/</br>
 
-# My public scripts are old, and just old portfolio stuff I uploaded.
+# My public scripts are just portfolio work, if you want a quote on a script contact me on discord: !josh#9815
