@@ -1,4 +1,4 @@
-**Self taught developer, Fluent in LUA, currently learning Javascript.**
+**Self taught developer, Fluent in LUA & SQF, currently learning Javascript.**
 
 **SQF✔️</br>
 LUA✔️</br>
