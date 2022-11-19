@@ -9,6 +9,6 @@ I have worked with FiveM since 2016, and have been developing actively on it for
 I have about 8+ years of experience Developing on ArmA games dating back to Arma 2, up until recently stopping working on ArmA 3</br>
 You can find my ArmA 3 Products on https://bytex.market/</br>
 You can find my FiveM Products on https://baytona.tebex.io/</br>
-You can find my Website at [http://baytona.live/](http://www.baytona.live/)</br>
+You can find my Website at [https://baytona.live/](https://baytona.live/)</br>
 
 # My public scripts are just portfolio work, if you want a quote on a resource/server contact me on discord: !josh#9815
