@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="612" height="612" src="https://i.imgur.com/n9f4aqY.png">
+  <img width="412" height="412" src="https://i.imgur.com/n9f4aqY.png">
 </p>
 
 **Self taught developer, Fluent in LUA & SQF, currently learning Javascript.**
