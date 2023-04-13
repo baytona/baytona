@@ -15,4 +15,4 @@ You can find my ArmA 3 Products on https://bytex.market/</br>
 You can find my FiveM Products on https://store.baytona.solutions/</br>
 You can find my Website at [https://baytona.solutions/](https://baytona.live/)</br>
 
-# My public scripts are just portfolio work, if you want a quote on a resource/server contact me on discord: !josh#9815
+# My public scripts are just portfolio work, if you want a quote on a resource/server contact me on discord: baytona#6579
