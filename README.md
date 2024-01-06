@@ -1,6 +1,4 @@
-<p align="center">
-  <a href="https://baytona.tebex.io"> <img src="https://i.imgur.com/0ABZGDk.png" style="max-height:12vh"> </a>
-</p>
+<img src="https://i.imgur.com/0ABZGDk.png" height='300' > </a>
 
 **Self taught developer, Fluent in LUA & SQF, currently learning Javascript.**
 
