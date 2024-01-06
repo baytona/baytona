@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://baytona.solutions"> <img src="https://i.imgur.com/0ABZGDk.png"> </a>
+  <a href="https://baytona.tebex.io"> <img src="https://i.imgur.com/0ABZGDk.png" style="max-height:12vh"> </a>
 </p>
 
 **Self taught developer, Fluent in LUA & SQF, currently learning Javascript.**
