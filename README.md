@@ -4,7 +4,8 @@
 
 **SQF✔️</br>
 LUA✔️</br>
-JS⌛**
+JS✔️</br>
+React✔️**
 
 I mainly work with CFX, on their modification platform FiveM for GTA V.</br>
 I have worked with FiveM since 2016, and have been developing actively on it for about 4-5 years now.</br>
