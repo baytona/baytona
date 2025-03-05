@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/0ABZGDk.png" height='300' > </a>
 
-**Self taught developer, Fluent in LUA & SQF, currently learning Javascript.**
+**Self taught developer, Fluent in LUA, SQF, Javascript**
 
 **SQF✔️</br>
 LUA✔️</br>
