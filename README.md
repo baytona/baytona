@@ -1,5 +1,3 @@
-<img src="https://i.imgur.com/0ABZGDk.png" height='300' > </a>
-
 **Self taught developer, Fluent in LUA, SQF, Javascript**
 
 **SQF✔️</br>
